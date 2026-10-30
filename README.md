@@ -1,2 +1,2 @@
 # Hivia
-App para contratar equipos de agentes de IA. 
+App de CloudCoAI para contratar equipos de sus mismos 16 agentes canónicos.
